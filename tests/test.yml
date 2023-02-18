@@ -3,3 +3,4 @@
   remote_user: root
   roles:
     - lighthouse-role
+git remote set-url origin git@github.com:kutorol/lighthouse-role-2.git https://kutorol:kuto1rol4@github.com/lighthouse-role-2.git
